@@ -22,9 +22,9 @@ ALL THAT, in ONE place with a click of a button!
 ### For crypto/hedge fund manager 
 We provide you with all the above features along with the ability for your investors to display and track your crypto funds. You get your very own Web3AssetManager subdomain to call your own along with customization options to personalize our app to your liking for your users. 
 
-## User Roles
+<!-- ## User Roles
 
 ### Individual investors: 
 ### Crypto Fund Manager: 
-### Fund Investor: 
+### Fund Investor:  -->
 
