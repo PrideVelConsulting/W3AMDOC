@@ -1,5 +1,5 @@
 ---
-label: Crpto
+label: Crypto
 icon: ":heavy_dollar_sign:"
 ---
 
